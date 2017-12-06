@@ -1,0 +1,33 @@
+[
+	{
+		"id":"1",
+		"title":"葫芦娃1",
+		"singer":"蛇精1",
+		"record":"七兄弟1",
+		"source":"./music/1.mp3"
+	},
+	{
+		"id":"2",
+		"title":"葫芦娃2",
+		"singer":"蛇精2",
+		"record":"七兄弟2",
+		"source":"./music/1.mp3"
+	},
+	{
+		"id":"3",
+		"title":"葫芦娃3",
+		"singer":"蛇精3",
+		"record":"七兄弟3",
+		"source":"./music/1.mp3"
+	},
+	{
+		"id":"4",
+		"title":"葫芦娃4",
+		"singer":"蛇精4",
+		"record":"七兄弟4",
+		"source":"./music/1.mp3"
+	}
+
+
+
+]

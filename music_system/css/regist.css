@@ -1,0 +1,44 @@
+.container {
+	margin:50px auto;
+}
+.table{
+	border-collapse: collapse;
+	width: 600px;
+	margin: 10px auto;
+	border: 1px solid #ddd;
+}
+.table td,.table th {
+background-color: #fff;
+}
+.table th,.table td {
+ border: 1px solid #ddd;
+}
+.table .table_title td{
+	background-color: pink;
+    text-align: center;
+}
+.table .left_td{
+	width: 200px;
+}
+.table tr td span{
+	margin-left: 30px;
+    font-size: 12px;
+    padding: 2px 20px 0;
+    color: #ccc;
+}
+
+
+
+
+
+
+.wrong {
+    color: red;
+    width:10px;
+    background: url(../images/error.png) no-repeat;
+}
+
+.right {
+    color: green;
+    background: url(../images/right.png) no-repeat;
+}
